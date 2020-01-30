@@ -1,0 +1,41 @@
+
+body {
+    margin: 0 auto;
+    width: 50vw;
+}
+
+svg#andersMag {
+    height: 80vh;
+}
+
+.st1 {
+    fill: #fff;
+    stroke: #000;
+}
+
+.cls-6 {
+    fill: red;
+    stroke: #000;
+    transition: .2s;
+}
+
+.cls-6:hover {
+    fill: lightcoral;
+}
+
+.st2 {
+    fill: #e62686;
+}
+
+.st3 {
+    fill: #fff;
+}
+
+.st4 {
+    fill: #333;
+    transition: .2s;
+}
+
+.st4:hover {
+    fill: #888;
+}
